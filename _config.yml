@@ -3,8 +3,8 @@ title: Charles Caspar
 email: ccaspar@dgmail.com
 url: https://ccaspar.github.io
 description: "Hello! My name is Charles Caspar. I am a data scientist living in New York. I have a financial background and am starting a new career in data science."
-keywords: "Charles, Caspar, data, science, website"
-skills: "Data Scientist - Python - CFA"
+keywords: "Charles, Caspar, data, science, CFA, website"
+skills: "Data Scientist - New York, NY"
 meta_author: Caspar Charles
 
 # Google webmaster tools
@@ -32,10 +32,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: C Caspar
+  copyright: CCC
   location: Location
   social: My Links
-  credits: Credits
+  credits: Goodbye
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

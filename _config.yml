@@ -2,9 +2,9 @@
 title: Charles Caspar
 email: ccaspar@dgmail.com
 url: https://ccaspar.github.io
-description: "Hello! My name is Charles Caspar. I am a data scientist living in New York. I have a financial background and am starting a new career in data science."
+description: "Hello! My name is Charles Caspar. I am a data analyst living in New York. I have a financial background and am starting a new career in data science."
 keywords: "Charles, Caspar, data, science, CFA, website"
-skills: "Data Scientist - New York, NY"
+skills: "Data Analst - New York, NY"
 meta_author: Caspar Charles
 
 # Google webmaster tools
@@ -48,6 +48,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: New York, NY
+  - line: ccaspar@gmail.com
 
 # Credits content
 credits: Thanks for visiting! Come back soon!

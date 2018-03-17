@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2018-03-01
-img: nerual-net.png
+img: nerualnet.png
 alt: image-alt
 project-date: March 2018
 category: Data Science

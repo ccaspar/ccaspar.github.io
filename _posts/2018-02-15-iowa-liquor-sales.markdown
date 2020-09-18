@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 4
-date: 2018-02-15
 img: liquor.png
 alt: image-alt
 project-date: February 2018

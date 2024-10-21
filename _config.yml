@@ -2,9 +2,9 @@
 title: Charles Caspar
 email: ccaspar@dgmail.com
 url: https://ccaspar.github.io
-description: "Hello! My name is Charles Caspar. I am a data scientist living in Seattle. Currently I am working in the advertising industry, using machine learning to optimize brand media."
-keywords: "Charles, Caspar, data, science, scientist, analyst, website, seattle"
-skills: "Data Scientist - Seattle, WA"
+description: "Hello! My name is Charles Caspar. I am a data scientist living in Colorado. Currently I am doing consulting work and am open to consulting and full time roles."
+keywords: "Charles, Caspar, data, science, scientist, analyst, website, colorado"
+skills: "Data Scientist - Colorado"
 meta_author: Caspar Charles
 
 # Google webmaster tools
@@ -47,7 +47,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Seattle, WA
+  - line: Colorado
   - line: ccaspar@gmail.com
 
 # Credits content

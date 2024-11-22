@@ -1,6 +1,6 @@
 # Site settings
 title: Charles Caspar
-email: ccaspar@dgmail.com
+email: ccaspar@gmail.com
 url: https://ccaspar.github.io
 description: "Hello! My name is Charles Caspar. I am a data scientist living in Colorado. Currently I am doing consulting work and am open to consulting and full time roles."
 keywords: "Charles, Caspar, data, science, scientist, analyst, website, colorado"
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: http://linkedin.com/ccaspar
+    url: https://www.linkedin.com/in/charles-caspar/
   - title: github
     url: http://github.com/ccaspar
 
